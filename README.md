@@ -15,9 +15,6 @@ To demonstrate the effectiveness of the proposed method, experiments were conduc
 We also collected our own dataset from 34 subjects to verify the accuracy of the proposed method.
 Experimental results demonstrate that the proposed method significantly outperforms previous algorithms on both the public and real-world datasets.
 
-## Method
-
-
 ## Installation
 #### Requirements
 - Ubuntu 18.04
