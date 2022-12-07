@@ -1,0 +1,1 @@
+# Long-term-Recurrent-Convolutional-Network-for-Emotion-Recognition-from-Photoplethysmography
