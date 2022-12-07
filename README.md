@@ -5,8 +5,18 @@ Pytorch implementation of Long-term Recurrent Convolutional Network for Emotion 
 ![1overall](https://user-images.githubusercontent.com/68531659/203210068-6b9254ca-5819-4361-8ee3-c8ec6cdd5d6e.jpg)
 
 ## Overview
+Emotion recognition is important for regulating stress levels and maintaining mental health, and it is known that emotional states can be inferred from physiological signals.
+However, in practice, the problem of emotion recognition contains many challenges due to various types of external noise and different individual characteristics.
+This paper proposes a deep learning model called Attention-LRCN for recognizing emotional states from photoplethysmography signals.
+The proposed model extracts temporal features from spectrograms by utilizing a long-term recurrent convolutional network, and a novel attention module is introduced to alleviate the effect of noise components.
+Moreover, to improve the recognition accuracy, we propose a weighted knowledge distillation technique, which is a teacher-student learning framework.
+We quantify the uncertainty of teacher’s predictions, and the predictive uncertainty is utilized to adaptively compute the weight of the distillation loss.
+To demonstrate the effectiveness of the proposed method, experiments were conducted on the WESAD dataset, which is a public dataset for stress and affect detection.
+We also collected our own dataset from 34 subjects to verify the accuracy of the proposed method.
+Experimental results demonstrate that the proposed method significantly outperforms previous algorithms on both the public and real-world datasets.
 
 ## Method
+
 
 ## Installation
 #### Requirements
