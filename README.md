@@ -55,4 +55,4 @@ Put the dataset in the directory with the file name "data/", and run:
 ```
 python3 merge_PPG.py
 ``` 
-to get merged PPG data.
+to get merged PPG data as input to the Attention-LRCN model.
