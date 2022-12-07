@@ -36,12 +36,12 @@ pip install -r requirements.txt
 #### Running Code
 To train the Attention-LRCN:
 ```
-python3 baseline_main.py 
+python3 Attention-LRCN.py 
 ```
 
 To train the Attention-LRCN with weighted knowledge distillation:
 ```
-python3 WKD_main.py
+python3 Weighted KD.py
 ```
 
 We provide pretrained weights to reproduce results in the paper. You can download the pretrained weights in models.
