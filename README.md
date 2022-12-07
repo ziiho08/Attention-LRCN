@@ -20,7 +20,11 @@ Experimental results demonstrate that the proposed method significantly outperfo
 
 ## Installation
 #### Requirements
-- 
+- Ubuntu 18.04
+- CUDA 9.1
+- Python v3.7.11
+- Pytorch v1.7.1
+
 #### Environment Setup
 - We recommend to conda for installation. Create the conda environment by running:
 ```
