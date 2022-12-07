@@ -53,6 +53,6 @@ python3 inference.py
 We use publically available WESAD dataset for evaluation. You can download the dataset [here](https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29).
 Put the dataset in the directory with the file name "data/", and run:
 ```
-python3 merged_PPG.py
+python3 merge_PPG.py
 ``` 
 to get merged PPG data.
