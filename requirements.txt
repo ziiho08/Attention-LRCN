@@ -1,0 +1,6 @@
+pytorch=1.7.1
+torchvision=0.8.2
+matplotlib=3.5.1
+opencv-python=4.6.0.66
+scikit-learn=1.0.2
+librosa=0.9.2
