@@ -18,6 +18,7 @@ Experimental results demonstrate that the proposed method significantly outperfo
 ## Installation
 #### Requirements
 - Ubuntu 18.04
+- CUDA 11.0
 - Python v3.7.11
 - Pytorch v1.7.1
 
