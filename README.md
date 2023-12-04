@@ -1,6 +1,6 @@
-# Long-term Recurrent Convolutional Network for Emotion Recognition from Photoplethysmography
+# Weighted knowledge distillation of attention-LRCN for recognizing affective states from PPG signals
 
-Pytorch implementation of Long-term Recurrent Convolutional Network for Emotion Recognition from Photoplethysmography.
+Pytorch implementation of Weighted knowledge distillation of attention-LRCN for recognizing affective states from PPG signals.
 
 ![1overall](https://user-images.githubusercontent.com/68531659/203210068-6b9254ca-5819-4361-8ee3-c8ec6cdd5d6e.jpg)
 
